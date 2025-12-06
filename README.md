@@ -44,7 +44,6 @@ Password installer bisa ditanyakan melalui WhatsApp:
 
 ## 👤 PENCIPTA
 **Danz Tsuyoi**  
-GitHub: https://github.com/Danzztsuyoi  
 WA: https://wa.me/6282130979808<p align="center">
   
 ---
